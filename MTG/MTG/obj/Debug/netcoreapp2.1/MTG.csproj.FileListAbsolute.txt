@@ -1,0 +1,14 @@
+C:\Users\afons\source\repos\MTG\MTG\bin\Debug\netcoreapp2.1\MTG.deps.json
+C:\Users\afons\source\repos\MTG\MTG\bin\Debug\netcoreapp2.1\MTG.runtimeconfig.json
+C:\Users\afons\source\repos\MTG\MTG\bin\Debug\netcoreapp2.1\MTG.runtimeconfig.dev.json
+C:\Users\afons\source\repos\MTG\MTG\bin\Debug\netcoreapp2.1\MTG.dll
+C:\Users\afons\source\repos\MTG\MTG\bin\Debug\netcoreapp2.1\MTG.pdb
+C:\Users\afons\source\repos\MTG\MTG\obj\Debug\netcoreapp2.1\MTG.csproj.CoreCompileInputs.cache
+C:\Users\afons\source\repos\MTG\MTG\obj\Debug\netcoreapp2.1\MTG.RazorAssemblyInfo.cache
+C:\Users\afons\source\repos\MTG\MTG\obj\Debug\netcoreapp2.1\MTG.RazorAssemblyInfo.cs
+C:\Users\afons\source\repos\MTG\MTG\obj\Debug\netcoreapp2.1\MTG.AssemblyInfoInputs.cache
+C:\Users\afons\source\repos\MTG\MTG\obj\Debug\netcoreapp2.1\MTG.AssemblyInfo.cs
+C:\Users\afons\source\repos\MTG\MTG\obj\Debug\netcoreapp2.1\MTG.RazorTargetAssemblyInfo.cache
+C:\Users\afons\source\repos\MTG\MTG\obj\Debug\netcoreapp2.1\MTG.dll
+C:\Users\afons\source\repos\MTG\MTG\obj\Debug\netcoreapp2.1\MTG.pdb
+C:\Users\afons\source\repos\MTG\MTG\obj\Debug\netcoreapp2.1\MTG.csprojAssemblyReference.cache
